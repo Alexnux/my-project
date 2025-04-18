@@ -1,5 +1,5 @@
-This was a new file created in the VC Code! (); 
+This file was newly created in VS Code.
 
-And now this file was moved to VC Code again! ();
+Now, this file has been moved (or committed) in VS Code again.
 
-And move forward to the GitHub!
+Next, it will be pushed to GitHub!
